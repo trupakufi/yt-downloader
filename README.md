@@ -92,7 +92,7 @@ No terminal, dentro da pasta do projeto:
 ### Download de vídeo (MP4)
 
 ```
-python baixar.py "URL_DO_VIDEO" video mp4
+python download.py "URL_DO_VIDEO" video mp4
 ```
 
 ---
@@ -100,7 +100,7 @@ python baixar.py "URL_DO_VIDEO" video mp4
 ### Download de áudio (MP3)
 
 ```
-python baixar.py "URL_DO_VIDEO" audio mp3
+python download.py "URL_DO_VIDEO" audio mp3
 ```
 
 ---
@@ -108,7 +108,7 @@ python baixar.py "URL_DO_VIDEO" audio mp3
 ### Download de áudio (AAC)
 
 ```
-python baixar.py "URL_DO_VIDEO" audio aac
+python download.py "URL_DO_VIDEO" audio aac
 ```
 
 ---
@@ -116,9 +116,9 @@ python baixar.py "URL_DO_VIDEO" audio aac
 ## 4. Exemplos
 
 ```
-python baixar.py "https://www.youtube.com/watch?v=BXd62mMu1UY" video mp4
+python download.py "https://www.youtube.com/watch?v=BXd62mMu1UY" video mp4
 
-python baixar.py "https://www.youtube.com/watch?v=BXd62mMu1UY" audio mp3
+python download.py "https://www.youtube.com/watch?v=BXd62mMu1UY" audio mp3
 ```
 
 ---
